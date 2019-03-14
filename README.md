@@ -12,4 +12,4 @@ To make navigation around the files easier,
 Typowanie = Prediction Page
 Wyniki = Results Page
 
-![Alt Text](https://media.giphy.com/media/69zP0KxUMSWodSZHRV/giphy.gif | width=100)
+![Alt Text](https://media.giphy.com/media/69zP0KxUMSWodSZHRV/giphy.gif)
