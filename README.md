@@ -9,8 +9,7 @@ When user enters a score for a particular match the system checks the current ti
 ## Important
 Code of the application is in English but UI of the app is in Polish.
 To make navigation around the files easier,
-
-Typowanie = Prediction Page
+Typowanie = Prediction Page  
 Wyniki = Results Page
 
 ![Alt Text](https://media.giphy.com/media/69zP0KxUMSWodSZHRV/giphy.gif)
